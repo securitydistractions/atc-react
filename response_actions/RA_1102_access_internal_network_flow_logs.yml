@@ -9,6 +9,7 @@ references:
   - https://example.com
 requirements:
   - DN_zeek_conn_log
+  - TEST
 workflow: |
   Description of the workflow for the Response Action in markdown format.  
   Here newlines will be saved.  
